@@ -88,6 +88,7 @@ footer {
   
     .box-list:last-child {
     margin-bottom: 50px;
+    margin: 0 auto;
   }
   
   footer{
